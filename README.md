@@ -60,4 +60,4 @@ Both activities share the same location and discipline, indicating a likely comm
 
 ## Example Output
 
-![Activity Status Distribution](screenshot.png)
+![Activity Status Distribution](Activity Status Distribution.png)
