@@ -60,6 +60,4 @@ Both activities share the same location and discipline, indicating a likely comm
 
 ## Example Output
 
-![Status Distribution](screenshot.png)
-
-<img width="956" height="1143" alt="image" src="https://github.com/user-attachments/assets/d2e55233-bb49-4109-a57b-340a1cc09ea5" />
+![Activity Status Distribution](screenshot.png)
