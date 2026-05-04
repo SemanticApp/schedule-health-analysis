@@ -61,3 +61,5 @@ Both activities share the same location and discipline, indicating a likely comm
 ## Example Output
 
 ![Activity Status Distribution](Activity%20Status%20Distribution.png)
+
+![Activity Status Distribution](activity-status-distribution.png)
