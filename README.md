@@ -60,4 +60,4 @@ Both activities share the same location and discipline, indicating a likely comm
 
 ## Example Output
 
-![Activity Status Distribution](./activity-status-distribution.png)
+![Activity Status Distribution](https://raw.githubusercontent.com/SemanticApp/schedule-health-analysis/main/activity-status-distribution.png)
