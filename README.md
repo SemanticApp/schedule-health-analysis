@@ -34,3 +34,32 @@ The schedule showed:
 SELECT status_code, COUNT(*) 
 FROM activities
 GROUP BY status_code;
+
+- Completed: 62.1% (433 activities)  
+- Not Started: 36.3% (253 activities)  
+- In Progress: 1.6% (11 activities)
+
+### Key Insight
+
+Only 1.6% of activities are marked as "In Progress," indicating that progress updates are likely being recorded only at completion rather than incrementally. This reduces visibility into ongoing work and may impact forecasting accuracy.
+
+### Localized Schedule Risk
+
+Two late not-started activities were identified in the same work package:
+
+- CON-BLW-1350 – Blower System I&C  
+- CON-BLW-1360 – Air Compressor I&C  
+
+Both activities share the same location and discipline, indicating a likely common dependency or constraint impacting the Blower Building scope.
+
+## Business Impact
+
+- Reduced visibility into active work due to low in-progress tracking  
+- Potential delays in downstream activities due to localized slippage  
+- Risk concentrated in specific work packages rather than distributed across the schedule
+
+## Example Output
+
+![Status Distribution](screenshot.png)
+
+<img width="956" height="1143" alt="image" src="https://github.com/user-attachments/assets/d2e55233-bb49-4109-a57b-340a1cc09ea5" />
