@@ -58,10 +58,8 @@ Both activities share the same location and discipline, indicating a likely comm
 - Potential delays in downstream activities due to localized slippage  
 - Risk concentrated in specific work packages rather than distributed across the schedule
 
-```## Example Output
-
+## Example Output
 ![Activity Status Distribution](https://raw.githubusercontent.com/SemanticApp/schedule-health-analysis/main/activity-status-distribution.png)
 
-```## Example Output
-
+## Example Output
 ![Activity Status Distribution](activity-status-distribution.png)
