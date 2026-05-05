@@ -38,7 +38,7 @@ GROUP BY status_code;
 - Completed: 62.1% (433 activities)  
 - Not Started: 36.3% (253 activities)  
 - In Progress: 1.6% (11 activities)
-```sql
+```
 
 ### Key Insight
 
